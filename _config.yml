@@ -1,5 +1,5 @@
-baseurl: "/vajra360" # the subpath of your site, e.g. /blog
-url: "https://adhikari18.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://vajra360.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
 title: "Vajra 360"
 email: "vajra360company@gmail.com"
 phone: "+1 7085298811"
